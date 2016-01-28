@@ -1,5 +1,6 @@
 class Prueba {
+
 	public static void main(String ar[]){
-		System.out.println("Hola esta sera la segunda version");
+		System.out.println("Esta ya es la buena");
 	}
 }
